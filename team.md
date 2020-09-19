@@ -1,4 +1,4 @@
 Team Members:
 
 *Amanda
-*TODO: others
+*Shiyu
